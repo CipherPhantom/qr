@@ -1,0 +1,48 @@
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  width: 25rem;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 23px;
+  width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.qr-body {
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  width: 28rem;
+  margin: 200px auto;
+  border-radius: 25px;
+  font-family: outline, sans-serif;
+  padding-bottom: 25px;
+}
+
+.qr-code {
+  width: 25rem;
+  border-radius: 25px;
+  margin: 25px auto 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
